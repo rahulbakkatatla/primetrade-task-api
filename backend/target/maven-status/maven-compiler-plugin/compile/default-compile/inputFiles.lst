@@ -1,0 +1,17 @@
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/service/UserDetailsServiceImpl.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/config/GlobalExceptionHandler.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/service/TaskService.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/TaskApiApplication.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/repository/UserRepository.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/entity/Task.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/controller/TaskController.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/controller/AdminController.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/entity/User.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/dto/Dto.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/security/JwtUtil.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/controller/AuthController.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/config/AppConfig.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/repository/TaskRepository.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/security/JwtAuthFilter.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/config/SecurityConfig.java
+/Users/rahulyadavb/Downloads/primetrade-app/backend/src/main/java/com/primetrade/service/AuthService.java
